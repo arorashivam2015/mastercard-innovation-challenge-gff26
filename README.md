@@ -31,6 +31,20 @@ The challenge closed with **180 submissions from 345 unique institutions** acros
 
 ---
 
+## Organizing Team
+
+The competition was organized end-to-end by a team led by **Shivam Arora**, covering:
+
+- Designing the problem statement across the Identify → Generate → Defend pillars
+- Identifying and setting up the platform to host the competition (Kaggle)
+- Collaborating with the design team on LinkedIn creatives to drive participant sign-ups
+- Ongoing communication with participants through the challenge lifecycle
+- Evaluating submissions, including a final round of evaluation with senior management
+- Declaring winners
+- Arranging passes for the winning team to attend GFF 2026 in person
+
+---
+
 ## Announcement
 
 Hackathon champions were announced live on stage at GFF 2026.
