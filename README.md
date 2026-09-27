@@ -33,7 +33,7 @@ The challenge closed with **180 submissions from 345 unique institutions** acros
 
 ## Organizing Team
 
-The competition was organized end-to-end by a team led by **Shivam Arora**, covering:
+The competition was organized end-to-end by the organizing team, covering:
 
 - Designing the problem statement across the Identify → Generate → Defend pillars
 - Identifying and setting up the platform to host the competition (Kaggle)
